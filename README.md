@@ -1,6 +1,3 @@
-# Vehicle
-This dataset contains 98 car brands information.
-
 # Vehicle dataset
 
 This dataset contains information about used cars.
@@ -28,3 +25,7 @@ Data contains 8 columns.
 **Transmission** This column represents whether the car is manual or automatic.
 
 **Owner**: This column represents the person who bought the car or the person who has been gifted the vehicle.
+
+
+Data Correlation is a way to understand the relationship between multiple features dataset. Using Correlation, we see that there is no highly correlation:
+![correlation](https://user-images.githubusercontent.com/62169942/163659257-1253b55e-030d-4033-9661-932ed16ec6c3.png)
