@@ -33,6 +33,6 @@ Data Correlation is a way to understand the relationship between multiple featur
 
 l have used several regression algorithms to compare models. 
 
-![accuracy](https://user-images.githubusercontent.com/62169942/163659421-93cf37e5-dcdd-4a18-9313-6fb98d9bc813.png)
+![accuracy](https://user-images.githubusercontent.com/62169942/163667289-3a881cff-43fa-4c32-bea8-115940eaacef.png)
 
 At the end Gradient Boosting, Random Forest and XGBoost selected best models in our modelling. Then check by hyperparametrs view mean absolute error, mean squared error, root mean squared error and r2 score.
