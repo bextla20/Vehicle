@@ -28,4 +28,4 @@ Data contains 8 columns.
 
 
 Data Correlation is a way to understand the relationship between multiple features dataset. Using Correlation, we see that there is no highly correlation:
-(https://user-images.githubusercontent.com/62169942/163659257-1253b55e-030d-4033-9661-932ed16ec6c3.png)
+!(https://user-images.githubusercontent.com/62169942/163659257-1253b55e-030d-4033-9661-932ed16ec6c3.png)
