@@ -28,11 +28,11 @@ Data contains 8 columns.
 
 
 Data Correlation is a way to understand the relationship between multiple features dataset. Using Correlation, we see that there is no highly correlation:
+
 ![correlation](https://user-images.githubusercontent.com/62169942/163659257-1253b55e-030d-4033-9661-932ed16ec6c3.png)
 
 l have used several regression algorithms to compare models. 
+
 ![accuracy](https://user-images.githubusercontent.com/62169942/163659421-93cf37e5-dcdd-4a18-9313-6fb98d9bc813.png)
 
 At the end Gradient Boosting, Random Forest and XGBoost selected best models in our modelling. Then check by hyperparametrs view mean absolute error, mean squared error, root mean squared error and r2 score.
-
-l have used
